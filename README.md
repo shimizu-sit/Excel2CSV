@@ -29,4 +29,11 @@ Excelファイルの中身はいかのようになっています．
 ![Excel](/images/Excel.png)
 
 ## 開発環境
-MacOS, anaconda3-2022.10
+
+### OS
+- Windows10 Pro 22H2
+- MacOS
+
+### Python and Library
+- Python 3.9.13
+- [OpenPyXL 3.1.0](https://openpyxl.readthedocs.io/en/stable/)
